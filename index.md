@@ -95,8 +95,6 @@ python cansniffer_interactive.py /dev/cu.usbserial-A5069RR4
 
 With the sniffer running, the hard part begins: interacting with vehicle functions (pressing buttons, opening doors, etc.) and observing changes in the cansniffer output. After an intense search, I found something interesting related to **CAN ID 470**.
 
-[![Demo](https://img.youtube.com/vi/bhGepUg1RVc/hqdefault.jpg)](https://www.youtube.com/watch?v=bhGepUg1RVc)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bhGepUg1RVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -138,7 +136,6 @@ python cansend.py /dev/cu.usbserial-A5069RR4 470#800000FF02
 
 Here is a video demonstrating the injection in practice:
 
-[![Demo](https://img.youtube.com/vi/GhfUjWhptTQ/hqdefault.jpg)](https://www.youtube.com/watch?v=GhfUjWhptTQ)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GhfUjWhptTQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
