@@ -23,8 +23,8 @@ This article will not deeply explain the electrical principles or the low-level 
 
 To make our lives easier, some documents provide highly relevant information about the CAN buses in vehicles: the **Repair Manual** and the **Wiring Diagram**. These documents aren't perfect and won't explicitly tell you how to hack your car, but they contain valuable information about the electrical system and its modules.
 
-For this project, I found the Wiring Diagram, which mentioned two critical pieces of information:
-1. Powertrain CAN (Engine) and Comfort CAN (windows, doors, lights...).
+For this project, I found the Wiring Diagram, which mentioned three critical pieces of information:
+1.  Powertrain CAN (Engine) and Comfort CAN (windows, doors, lights...).
 2.  The COMFORT CAN bus **bitrate is 500kbps**.
 3.  The `a-can-h` (CAN High) and `a-can-l` (CAN Low) wires have the following colors: **orange/black** and **orange/brown**, respectively.
 
