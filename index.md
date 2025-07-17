@@ -153,6 +153,8 @@ If you have any questions, feel free to reach out :)
 [**Github**](https://github.com/leandrobalta?tab=repositories)
 <br>
 [**Email**](mailto:lbbraga@proton.me)
+<br>
+[**LinkedIn**](https://www.linkedin.com/in/lbalta)
 
 ---
 
